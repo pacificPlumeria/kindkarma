@@ -4,3 +4,4 @@
 
 KindKarma is a community based app where neighbors can contribute through volunteer work, and recieve recognition for their efforts. It is a place where community members come to help one another. Whether you are in need of a helping hand, or looking to fulfill volunteer hours, or showcasing your talents through acts of kindness, come make a difference in your community!
  
+(kindkarma/communities.png)
