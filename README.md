@@ -10,7 +10,7 @@ Semester Long Spring 2020 Group Project.
 
 #Image Previews:
  
-![createrequest](createrequest.png)
+![createrequest](createrequest.png| width=100)
 ![mainfeed](mainfeed.png)
 ![messages](messages.png)
 ![requestsfeed](requestsfeed.png)
