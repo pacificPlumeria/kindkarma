@@ -10,11 +10,11 @@ Semester Long Spring 2020 Group Project.
 
 # Image Previews:
 
-<img src="createrequest.png" width="100">
-<img src="mainfeed.png.png" width="100">
-<img src="messages.png" width="100">
-<img src="requestsfeed.png" width="100">
-<img src="communities.png" width="100">
+<img src="createrequest.png" width="150">
+<img src="mainfeed.png" width="150">
+<img src="messages.png" width="150">
+<img src="requestsfeed.png" width="150">
+<img src="communities.png" width="150">
  
 
 
