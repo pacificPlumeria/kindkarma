@@ -8,13 +8,13 @@ KindKarma is a community based app where neighbors can contribute through volunt
 Semester Long Spring 2020 Group Project.
 
 
-#Image Previews:
+# Image Previews:
 
-<img src="createrequest.png" width="100" height="100">
+<img src="createrequest.png" width="100">
+<img src="mainfeed.png.png" width="100">
+<img src="messages.png" width="100">
+<img src="requestsfeed.png" width="100">
+<img src="communities.png" width="100">
  
-![createrequest](createrequest.png | width=100)
-![mainfeed](mainfeed.png)
-![messages](messages.png)
-![requestsfeed](requestsfeed.png)
-![communities](communities.png)
+
 
