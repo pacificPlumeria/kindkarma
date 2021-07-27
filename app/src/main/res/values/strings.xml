@@ -1,0 +1,71 @@
+<resources>
+    <!--Content descriptions-->
+    <string name="likes_icon">Thumbs up icon</string>
+    <string name="ellipses_icon">Ellipses icon</string>
+    <string name="favorite_icon">Heart icon</string>
+    <string name="send_icon">Plane icon</string>
+    <string name="request_image">Request image</string>
+    <string name="post_image">Post image</string>
+    <string name="profile_image">Profile image</string>
+    <string name="community_image">Community Image</string>
+
+
+    <string name="app_name">KindKarma</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="titlePostRequestSpinner">Please Select A Request:</string>
+    <string name="about_you">about_you</string>
+    <string name="about_you_label">About</string>
+    <string name="skills">Skills</string>
+    <string name="username">username</string>
+    <string name="todo">todo</string>
+    <string name="tell_us_about_you">Tell us about you!</string>
+    <string name="join_a_community">Join a community</string>
+
+    <string name="community">Community:</string>
+    <string name="edit_community">edit_community</string>
+    <string name="add_skills">Add skills</string>
+
+    <string-array name="statusSpinnerItems">
+        <item>Active</item>
+        <item>Pending</item>
+        <item>Complete</item>
+    </string-array>
+    <string name="statusSpinner_label">Status</string>
+
+    <string name="comment_hint">Enter comment</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--Strings used in CreateRequest-->
+    <string name="title_activity_create_request">CreateRequest</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="request_title_label">Title</string>
+    <string name="request_summary_label">Summary</string>
+    <string name="request_title_hint">Request Title (required)</string>
+    <string name="request_summary_hint">Your Request</string>
+    <string name="online">Online</string>
+    <string name="attach_photo_label">Attatch a photo</string>
+    <string name="create_request">create request</string>
+    <string name="cancel">cancel request</string>
+
+    <string name="add5">Add 5</string>
+    <string name="send_notification_text">Send Android Notification</string>
+    <string name="subscribe_to_news">Subscribe to \"News\"</string>
+    <string name="send_message_to_news">Send Message to News Topic</string>
+    <string name="start_notification_act">Notification Example</string>
+    <string name="msg_subscribe_failed">Subscription Failed</string>
+
+    <string name="start_permissions_act">Permissions Example</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="channel_id">Channel_Name_NUMAD_demo</string>
+    <string name="kind_karma_join_your_community">Kind Karma (Join your community!)</string>
+</resources>
